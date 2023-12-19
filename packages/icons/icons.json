@@ -3521,13 +3521,6 @@
         "codepoint": 62167
     },
     {
-        "displayName": "Array",
-        "iconName": "array",
-        "tags": "data, type, list, ellipses, items, more, dots, details",
-        "group": "miscellaneous",
-        "codepoint": 61729
-    },
-    {
         "displayName": "Boolean Array",
         "iconName": "array-boolean",
         "tags": "data, type, list, toggle, true, false",
